@@ -1,0 +1,3 @@
+Welcome to git commands and system.
+git is version control system.
+git commands are git commit gitadd gitpush gitint
